@@ -18,4 +18,5 @@ run the program (windows, similar in linux):
 
 some examples
 ![image](https://user-images.githubusercontent.com/48349275/158921964-e9263d31-ac48-438d-9618-2af91dc4ec6f.png)
-![image](https://user-images.githubusercontent.com/48349275/158922574-c553b1e8-61f0-4d1d-8b0d-2325a40106c0.png)
+![image](https://user-images.githubusercontent.com/48349275/158997231-4ad2044b-7ef0-43a0-bcac-eb0a4bd04c50.png)
+
